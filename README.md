@@ -1,9 +1,4 @@
 # travel_sathi
-       
-
-This Project is live at --------> https://travelyaari.herokuapp.com
-
-Mentor: Pankaj Kapoor
 
 This project was bootstrapped with Create React App.
 
